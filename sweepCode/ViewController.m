@@ -24,7 +24,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     self.textQR.delegate = self;
-    NSLog(@"测试github");
+    
 }
 
 - (void)didReceiveMemoryWarning {
